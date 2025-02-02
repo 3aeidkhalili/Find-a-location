@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/1e8a4003-b74b-4936-8198-69f3acade8d7)
 
 توضیحات کد:
-صفحه خالی:
+
 
 صفحه هیچ محتوایی ندارد و کاربر چیزی نمی‌بیند.
 
