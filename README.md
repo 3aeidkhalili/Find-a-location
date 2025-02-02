@@ -22,4 +22,6 @@
 در سمت سرور، تصویر نقشه با استفاده از سرویس Static Maps ایجاد می‌شود.
 
 تصویر نقشه به تلگرام ارسال می‌شود.
+
+
 ![image](https://github.com/user-attachments/assets/9ac054d4-ba24-4a8c-81ba-67af95b65dfd)
