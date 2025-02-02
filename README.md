@@ -27,24 +27,6 @@
 ![image](https://github.com/user-attachments/assets/9ac054d4-ba24-4a8c-81ba-67af95b65dfd)
 
 ۱. نصب پیش‌نیازها
-قبل از شروع، مطمئن شوید که Python و pip (مدیریت بسته‌های پایتون) روی سیستم شما نصب شده است. سپس مراحل زیر را دنبال کنید:
-
-۱.۱. ایجاد محیط مجازی (Virtual Environment)
-برای جلوگیری از تداخل با سایر پروژه‌ها، یک محیط مجازی ایجاد کنید:
-
-
-python -m venv myenv
-۱.۲. فعال کردن محیط مجازی
-روی ویندوز:
-
-
-myenv\Scripts\activate
-روی macOS/Linux:
-
-
-source myenv/bin/activate
-۱.۳. نصب Flask و کتابخانه‌های مورد نیاز
-در محیط مجازی، Flask و کتابخانه‌های لازم را نصب کنید:
 
 
 pip install flask requests
